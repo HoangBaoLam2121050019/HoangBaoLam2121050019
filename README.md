@@ -1,7 +1,4 @@
-Hoàng Bảo Lâm 
-Mã sinh viên 2121050019
-Lớp DCCTCT66_08C
-Ngành Công nghệ thông tin địa học
+Test place for codes 
 
 
 <!---
